@@ -53,29 +53,35 @@ This repository serves as an overview of my projects, contributions, and interes
 
 ## Projects I'm Contributing To
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=nezhahq&repo=nezha&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=nezhahq&repo=nezha" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nezhahq&repo=nezha" alt="Nezha Monitoring" />
-</picture>
+<a href="https://github.com/nezhahq/nezha">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=nezhahq&repo=nezha&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=nezhahq&repo=nezha" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nezhahq&repo=nezha" alt="Nezha Monitoring" />
+  </picture>
+</a>
+<a href="https://github.com/HsukqiLee/MediaUnlockTest">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=MediaUnlockTest&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=MediaUnlockTest" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=MediaUnlockTest" alt="MediaUnlockTest" />
+  </picture>
+</a>
 
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=MediaUnlockTest&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=MediaUnlockTest" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=MediaUnlockTest" alt="MediaUnlockTest" />
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin" alt="Typecho-Theme-Kylin" />
-</picture>
-
-<picture>
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons&theme=dark" media="(prefers-color-scheme: dark)" />
-  <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons" alt="Pixel-Launcher-Icons" />
-</picture>
+<a href="https://github.com/HsukqiLee/Typecho-Theme-Kylin">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin" alt="Typecho-Theme-Kylin" />
+  </picture>
+</a>
+<a href="https://github.com/HsukqiLee/Pixel-Launcher-Icons">
+  <picture>
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons&theme=dark" media="(prefers-color-scheme: dark)" />
+    <source srcset="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons" alt="Pixel-Launcher-Icons" />
+  </picture>
+</a>
 
 ## Support Digital Freedom and Human Rights
 
