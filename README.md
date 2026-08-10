@@ -9,31 +9,30 @@ This repository serves as an overview of my projects, contributions, and interes
 - Interested in backend development, networking, and embedded systems.
 - Occasionally tinkering with electronics and system-level tools.
 
-## GitHub Stats
+## Open Source Contributions
 
 <picture>
-  <source 
-    srcset="https://github-readme-stats.tsinbei.com/api?username=HsukqiLee&show_icons=true&theme=dark" 
+  <source
+    srcset="https://github-readme-stats.tsinbei.com/api?username=HsukqiLee&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)">
-  <source 
-    srcset="https://github-readme-stats.tsinbei.com/api?username=HsukqiLee&show_icons=true&theme=default" 
+  <source
+    srcset="https://github-readme-stats.tsinbei.com/api?username=HsukqiLee&show_icons=true&theme=default"
     media="(prefers-color-scheme: light)">
-  <img 
-    src="https://github-readme-stats.tsinbei.com/api?username=HsukqiLee&show_icons=true" 
+  <img
+    src="https://github-readme-stats.tsinbei.com/api?username=HsukqiLee&show_icons=true"
+    height="195"
     alt="GitHub Stats" />
 </picture>
-
-## Top Languages
-
 <picture>
-  <source 
-    srcset="https://github-readme-stats.tsinbei.com/api/top-langs/?username=HsukqiLee&layout=compact&theme=dark" 
+  <source
+    srcset="https://github-readme-stats.tsinbei.com/api/top-langs/?username=HsukqiLee&layout=compact&theme=dark"
     media="(prefers-color-scheme: dark)">
-  <source 
-    srcset="https://github-readme-stats.tsinbei.com/api/top-langs/?username=HsukqiLee&layout=compact&theme=default" 
+  <source
+    srcset="https://github-readme-stats.tsinbei.com/api/top-langs/?username=HsukqiLee&layout=compact&theme=default"
     media="(prefers-color-scheme: light)">
-  <img 
-    src="https://github-readme-stats.tsinbei.com/api/top-langs/?username=HsukqiLee&layout=compact" 
+  <img
+    src="https://github-readme-stats.tsinbei.com/api/top-langs/?username=HsukqiLee&layout=compact"
+    height="195"
     alt="Top Languages" />
 </picture>
 
