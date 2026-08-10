@@ -50,37 +50,35 @@ This repository serves as an overview of my projects, contributions, and interes
     alt="GitHub Streak" />
 </picture>
 
-## Projects I'm Contributing To
+## Projects I've Contributed To
 
-<a href="https://github.com/nezhahq/nezha">
-  <picture>
-    <source srcset="https://github-readme-stats.tsinbei.com/api/pin/?username=nezhahq&repo=nezha&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.tsinbei.com/api/pin/?username=nezhahq&repo=nezha" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" src="https://github-readme-stats.tsinbei.com/api/pin/?username=nezhahq&repo=nezha" alt="Nezha Monitoring" />
-  </picture>
-</a>
-<a href="https://github.com/HsukqiLee/MediaUnlockTest">
-  <picture>
-    <source srcset="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=MediaUnlockTest&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=MediaUnlockTest" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=MediaUnlockTest" alt="MediaUnlockTest" />
-  </picture>
-</a>
-
-<a href="https://github.com/HsukqiLee/Typecho-Theme-Kylin">
-  <picture>
-    <source srcset="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Typecho-Theme-Kylin" alt="Typecho-Theme-Kylin" />
-  </picture>
-</a>
-<a href="https://github.com/HsukqiLee/Pixel-Launcher-Icons">
-  <picture>
-    <source srcset="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons&theme=dark" media="(prefers-color-scheme: dark)" />
-    <source srcset="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-    <img align="center" src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Pixel-Launcher-Icons" alt="Pixel-Launcher-Icons" />
-  </picture>
-</a>
+<a href="https://github.com/nezhahq/nezha"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=nezhahq&repo=nezha" alt="nezhahq/nezha" /></a>
+<a href="https://github.com/Hybrid-Mount/meta-hybrid_mount"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=Hybrid-Mount&repo=meta-hybrid_mount" alt="Hybrid-Mount/meta-hybrid_mount" /></a>
+<a href="https://github.com/lz233/Tarnhelm"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=lz233&repo=Tarnhelm" alt="lz233/Tarnhelm" /></a>
+<a href="https://github.com/nkeonkeo/MediaUnlockTest"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=nkeonkeo&repo=MediaUnlockTest" alt="nkeonkeo/MediaUnlockTest" /></a>
+<a href="https://github.com/XiaoTong6666/FuseHide"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=XiaoTong6666&repo=FuseHide" alt="XiaoTong6666/FuseHide" /></a>
+<a href="https://github.com/HsukqiLee/MediaUnlockTest"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=MediaUnlockTest" alt="HsukqiLee/MediaUnlockTest" /></a>
+<a href="https://github.com/dirien/minecraft-prometheus-exporter"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=dirien&repo=minecraft-prometheus-exporter" alt="dirien/minecraft-prometheus-exporter" /></a>
+<a href="https://github.com/ReSukiSU-GKI/GKI_KernelSU_SUSFS"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=ReSukiSU-GKI&repo=GKI_KernelSU_SUSFS" alt="ReSukiSU-GKI/GKI_KernelSU_SUSFS" /></a>
+<a href="https://github.com/saddit/fjqndxx-v2"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=saddit&repo=fjqndxx-v2" alt="saddit/fjqndxx-v2" /></a>
+<a href="https://github.com/mon231/com.rel.languager"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=mon231&repo=com.rel.languager" alt="mon231/com.rel.languager" /></a>
+<a href="https://github.com/HsukqiLee/Tsinbei-Blog"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Tsinbei-Blog" alt="HsukqiLee/Tsinbei-Blog" /></a>
+<a href="https://github.com/HsukqiLee/telegram-faq-bot"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=telegram-faq-bot" alt="HsukqiLee/telegram-faq-bot" /></a>
+<a href="https://github.com/ClosedWHU/WHU-Dugout-Server"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=ClosedWHU&repo=WHU-Dugout-Server" alt="ClosedWHU/WHU-Dugout-Server" /></a>
+<a href="https://github.com/HsukqiLee/nezha-dash"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=nezha-dash" alt="HsukqiLee/nezha-dash" /></a>
+<a href="https://github.com/whu-ham/ham-open-proto"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=whu-ham&repo=ham-open-proto" alt="whu-ham/ham-open-proto" /></a>
+<a href="https://github.com/ClosedWHU/Luotopia-i18n"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=ClosedWHU&repo=Luotopia-i18n" alt="ClosedWHU/Luotopia-i18n" /></a>
+<a href="https://github.com/HsukqiLee/Grok2API"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Grok2API" alt="HsukqiLee/Grok2API" /></a>
+<a href="https://github.com/HsukqiLee/deep-research"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=deep-research" alt="HsukqiLee/deep-research" /></a>
+<a href="https://github.com/ClosedWHU/WHU-Dugout-App"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=ClosedWHU&repo=WHU-Dugout-App" alt="ClosedWHU/WHU-Dugout-App" /></a>
+<a href="https://github.com/HsukqiLee/Hubei-AQI-Forecast"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Hubei-AQI-Forecast" alt="HsukqiLee/Hubei-AQI-Forecast" /></a>
+<a href="https://github.com/HsukqiLee/openlist-api"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=openlist-api" alt="HsukqiLee/openlist-api" /></a>
+<a href="https://github.com/HsukqiLee/PVE-Manager"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=PVE-Manager" alt="HsukqiLee/PVE-Manager" /></a>
+<a href="https://github.com/HsukqiLee/Skin-Government"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Skin-Government" alt="HsukqiLee/Skin-Government" /></a>
+<a href="https://github.com/HsukqiLee/Brilliant-Chess"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Brilliant-Chess" alt="HsukqiLee/Brilliant-Chess" /></a>
+<a href="https://github.com/HsukqiLee/AutoStudyCyol"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=AutoStudyCyol" alt="HsukqiLee/AutoStudyCyol" /></a>
+<a href="https://github.com/HsukqiLee/MinecraftPrometheusExporter"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=MinecraftPrometheusExporter" alt="HsukqiLee/MinecraftPrometheusExporter" /></a>
+<a href="https://github.com/HsukqiLee/nezha"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=nezha" alt="HsukqiLee/nezha" /></a>
 
 ## Support Digital Freedom and Human Rights
 
