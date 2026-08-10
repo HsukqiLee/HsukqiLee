@@ -71,14 +71,7 @@ This repository serves as an overview of my projects, contributions, and interes
 <a href="https://github.com/HsukqiLee/Grok2API"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Grok2API" alt="HsukqiLee/Grok2API" /></a>
 <a href="https://github.com/HsukqiLee/deep-research"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=deep-research" alt="HsukqiLee/deep-research" /></a>
 <a href="https://github.com/ClosedWHU/WHU-Dugout-App"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=ClosedWHU&repo=WHU-Dugout-App" alt="ClosedWHU/WHU-Dugout-App" /></a>
-<a href="https://github.com/HsukqiLee/Hubei-AQI-Forecast"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Hubei-AQI-Forecast" alt="HsukqiLee/Hubei-AQI-Forecast" /></a>
-<a href="https://github.com/HsukqiLee/openlist-api"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=openlist-api" alt="HsukqiLee/openlist-api" /></a>
 <a href="https://github.com/HsukqiLee/PVE-Manager"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=PVE-Manager" alt="HsukqiLee/PVE-Manager" /></a>
-<a href="https://github.com/HsukqiLee/Skin-Government"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Skin-Government" alt="HsukqiLee/Skin-Government" /></a>
-<a href="https://github.com/HsukqiLee/Brilliant-Chess"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Brilliant-Chess" alt="HsukqiLee/Brilliant-Chess" /></a>
-<a href="https://github.com/HsukqiLee/AutoStudyCyol"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=AutoStudyCyol" alt="HsukqiLee/AutoStudyCyol" /></a>
-<a href="https://github.com/HsukqiLee/MinecraftPrometheusExporter"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=MinecraftPrometheusExporter" alt="HsukqiLee/MinecraftPrometheusExporter" /></a>
-<a href="https://github.com/HsukqiLee/nezha"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=nezha" alt="HsukqiLee/nezha" /></a>
 
 ## Support Digital Freedom and Human Rights
 
