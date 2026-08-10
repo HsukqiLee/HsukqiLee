@@ -21,7 +21,6 @@ This repository serves as an overview of my projects, contributions, and interes
     media="(prefers-color-scheme: light)">
   <img
     src="https://github-readme-stats.tsinbei.com/api?username=HsukqiLee&show_icons=true"
-    height="195"
     alt="GitHub Stats" />
 </picture>
 <picture>
@@ -33,7 +32,6 @@ This repository serves as an overview of my projects, contributions, and interes
     media="(prefers-color-scheme: light)">
   <img
     src="https://github-readme-stats.tsinbei.com/api/top-langs/?username=HsukqiLee&layout=compact"
-    height="195"
     alt="Top Languages" />
 </picture>
 <picture>
@@ -45,7 +43,6 @@ This repository serves as an overview of my projects, contributions, and interes
     media="(prefers-color-scheme: light)">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=HsukqiLee"
-    height="195"
     alt="GitHub Streak" />
 </picture>
 </p>
