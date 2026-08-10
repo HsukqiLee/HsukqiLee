@@ -50,17 +50,17 @@ This repository serves as an overview of my projects, contributions, and interes
 
 ## Projects I've Contributed To
 
-<a href="https://github.com/nezhahq/nezha"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=nezhahq&repo=nezha" alt="nezhahq/nezha" /></a>
-<a href="https://github.com/Hybrid-Mount/meta-hybrid_mount"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=Hybrid-Mount&repo=meta-hybrid_mount" alt="Hybrid-Mount/meta-hybrid_mount" /></a>
-<a href="https://github.com/lz233/Tarnhelm"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=lz233&repo=Tarnhelm" alt="lz233/Tarnhelm" /></a>
-<a href="https://github.com/XiaoTong6666/FuseHide"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=XiaoTong6666&repo=FuseHide" alt="XiaoTong6666/FuseHide" /></a>
-<a href="https://github.com/HsukqiLee/MediaUnlockTest"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=MediaUnlockTest" alt="HsukqiLee/MediaUnlockTest" /></a>
-<a href="https://github.com/dirien/minecraft-prometheus-exporter"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=dirien&repo=minecraft-prometheus-exporter" alt="dirien/minecraft-prometheus-exporter" /></a>
-<a href="https://github.com/ReSukiSU-GKI/GKI_KernelSU_SUSFS"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=ReSukiSU-GKI&repo=GKI_KernelSU_SUSFS" alt="ReSukiSU-GKI/GKI_KernelSU_SUSFS" /></a>
-<a href="https://github.com/mon231/com.rel.languager"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=mon231&repo=com.rel.languager" alt="mon231/com.rel.languager" /></a>
-<a href="https://github.com/HsukqiLee/Tsinbei-Blog"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Tsinbei-Blog" alt="HsukqiLee/Tsinbei-Blog" /></a>
-<a href="https://github.com/HsukqiLee/nezha-dash"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=nezha-dash" alt="HsukqiLee/nezha-dash" /></a>
-<a href="https://github.com/HsukqiLee/PVE-Manager"><img height="195" src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=PVE-Manager" alt="HsukqiLee/PVE-Manager" /></a>
+<a href="https://github.com/nezhahq/nezha"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=nezhahq&repo=nezha&description_lines_count=3" alt="nezhahq/nezha" /></a>
+<a href="https://github.com/Hybrid-Mount/meta-hybrid_mount"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=Hybrid-Mount&repo=meta-hybrid_mount&description_lines_count=3" alt="Hybrid-Mount/meta-hybrid_mount" /></a>
+<a href="https://github.com/lz233/Tarnhelm"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=lz233&repo=Tarnhelm&description_lines_count=3" alt="lz233/Tarnhelm" /></a>
+<a href="https://github.com/XiaoTong6666/FuseHide"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=XiaoTong6666&repo=FuseHide&description_lines_count=3" alt="XiaoTong6666/FuseHide" /></a>
+<a href="https://github.com/HsukqiLee/MediaUnlockTest"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=MediaUnlockTest&description_lines_count=3" alt="HsukqiLee/MediaUnlockTest" /></a>
+<a href="https://github.com/dirien/minecraft-prometheus-exporter"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=dirien&repo=minecraft-prometheus-exporter&description_lines_count=3" alt="dirien/minecraft-prometheus-exporter" /></a>
+<a href="https://github.com/ReSukiSU-GKI/GKI_KernelSU_SUSFS"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=ReSukiSU-GKI&repo=GKI_KernelSU_SUSFS&description_lines_count=3" alt="ReSukiSU-GKI/GKI_KernelSU_SUSFS" /></a>
+<a href="https://github.com/mon231/com.rel.languager"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=mon231&repo=com.rel.languager&description_lines_count=3" alt="mon231/com.rel.languager" /></a>
+<a href="https://github.com/HsukqiLee/Tsinbei-Blog"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Tsinbei-Blog&description_lines_count=3" alt="HsukqiLee/Tsinbei-Blog" /></a>
+<a href="https://github.com/HsukqiLee/nezha-dash"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=nezha-dash&description_lines_count=3" alt="HsukqiLee/nezha-dash" /></a>
+<a href="https://github.com/HsukqiLee/PVE-Manager"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=PVE-Manager&description_lines_count=3" alt="HsukqiLee/PVE-Manager" /></a>
 
 ## Support Digital Freedom and Human Rights
 
