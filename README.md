@@ -59,7 +59,6 @@ This repository serves as an overview of my projects, contributions, and interes
 <a href="https://github.com/ReSukiSU-GKI/GKI_KernelSU_SUSFS"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=ReSukiSU-GKI&repo=GKI_KernelSU_SUSFS&description_lines_count=2" alt="ReSukiSU-GKI/GKI_KernelSU_SUSFS" /></a>
 <a href="https://github.com/mon231/com.rel.languager"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=mon231&repo=com.rel.languager&description_lines_count=2" alt="mon231/com.rel.languager" /></a>
 <a href="https://github.com/HsukqiLee/Tsinbei-Blog"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=Tsinbei-Blog&description_lines_count=2" alt="HsukqiLee/Tsinbei-Blog" /></a>
-<a href="https://github.com/HsukqiLee/nezha-dash"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=nezha-dash&description_lines_count=2" alt="HsukqiLee/nezha-dash" /></a>
 <a href="https://github.com/HsukqiLee/PVE-Manager"><img src="https://github-readme-stats.tsinbei.com/api/pin/?username=HsukqiLee&repo=PVE-Manager&description_lines_count=2" alt="HsukqiLee/PVE-Manager" /></a>
 
 ## Support Digital Freedom and Human Rights
