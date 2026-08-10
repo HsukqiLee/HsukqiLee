@@ -11,6 +11,7 @@ This repository serves as an overview of my projects, contributions, and interes
 
 ## Open Source Contributions
 
+<p>
 <picture>
   <source
     srcset="https://github-readme-stats.tsinbei.com/api?username=HsukqiLee&show_icons=true&theme=dark"
@@ -47,6 +48,7 @@ This repository serves as an overview of my projects, contributions, and interes
     height="195"
     alt="GitHub Streak" />
 </picture>
+</p>
 
 ## Projects I've Contributed To
 
