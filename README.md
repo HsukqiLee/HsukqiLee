@@ -68,11 +68,4 @@ This repository serves as an overview of my projects, contributions, and interes
 
 I support human rights, freedom, democracy, peace, equality, and the protection of democratic values worldwide. Open source drives innovation, transparency, and collaboration, while digital privacy gives people control over their data free from surveillance and exploitation. Free speech and net neutrality are essential to an open, fair internet where everyone can express themselves and access information without discrimination. I stand with Ukraine and advocate for accountable technology companies that are transparent about data collection, use, and the influence of their algorithms.
 
-## Let's Connect
-
-- [My GitHub](https://github.com/HsukqiLee)
-- [My GitHub Organization](https://github.com/TsinbeiTech)
-- [My Blog](https://blog.tsinbei.com)
-
----
 
