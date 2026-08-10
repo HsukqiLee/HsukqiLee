@@ -35,18 +35,16 @@ This repository serves as an overview of my projects, contributions, and interes
     height="195"
     alt="Top Languages" />
 </picture>
-
-## Contributions
-
 <picture>
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=HsukqiLee&theme=dark" 
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=HsukqiLee&theme=dark"
     media="(prefers-color-scheme: dark)">
-  <source 
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=HsukqiLee&theme=default" 
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=HsukqiLee&theme=default"
     media="(prefers-color-scheme: light)">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=HsukqiLee" 
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=HsukqiLee"
+    height="195"
     alt="GitHub Streak" />
 </picture>
 
